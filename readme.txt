@@ -1,3 +1,4 @@
+syy.
 please start from new_interface.py
 the code in ChannelSource module£º
 		ChannelSource.py
@@ -14,3 +15,4 @@ the code in Channel module£º
 		rayleigh_channel.py
 		zheng_channel.py
 the code in ChannelSink module is updating...
+
